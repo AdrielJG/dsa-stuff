@@ -16,6 +16,7 @@ if maxcount > len(nums)/2:
 else:
     print("no")
 
+#-----------------------------------------------------
 
 nums = [7, 0, 0, 1, 7, 7, 2, 7, 7]
 candidate = None
